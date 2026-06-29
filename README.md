@@ -31,8 +31,8 @@ https://doi.org/10.6084/m9.figshare.32150047
 
 ## 📦 Installation
 
-git clone https://github.com/AI-Zhu001/DE-XRT-thickness-regularization.git
-cd DE-XRT-thickness-regularization
+git clone https://github.com/AI-Zhu001/DE-XRT-copper-sorting.git
+cd DE-XRT-copper-sorting
 pip install -r requirements.txt
 
 ---
