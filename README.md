@@ -1,11 +1,11 @@
 cat << 'EOF' > README.md
-# Robust Dual-Energy X-ray Copper Ore Sorting via Log-Domain Contrast Imaging and Soft Adaptive Attenuation Compensation
+# Soft Adaptive Attenuation Compensation for Robust Dual-Energy X-ray Copper Ore Sorting
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the official PyTorch implementation of the paper:
 
-**"Robust Dual-Energy X-ray Copper Ore Sorting via Log-Domain Contrast Imaging and Soft Adaptive Attenuation Compensation"**  
+**"Soft Adaptive Attenuation Compensation for Robust Dual-Energy X-ray Copper Ore Sorting"**  
 *Zhu Zhi-yong, He Jian-feng, Wang Wen, Cai You-bin, Wang Xue-yuan, Xia Fei, Nie Feng-jun, Li Wei-dong, Zhong Guo-yun, Ye Zhi-Xiang, Diao Fan*
 
 ---
