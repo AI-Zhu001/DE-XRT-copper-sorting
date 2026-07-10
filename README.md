@@ -6,7 +6,7 @@ cat << 'EOF' > README.md
 This repository contains the official PyTorch implementation of the paper:
 
 **"Soft Adaptive Attenuation Compensation for Robust Dual-Energy X-ray Copper Ore Sorting"**  
-*Zhu Zhi-yong, He Jian-feng, Wang Wen, Cai You-bin, Wang Xue-yuan, Xia Fei, Nie Feng-jun, Li Wei-dong, Zhong Guo-yun, Ye Zhi-Xiang, Diao Fan*
+*Zhi-yong Zhu, Jian-feng He, Xue-yuan Wang, Fei Xia, Feng-jun Nie, Wen Wang, Yang-hui Zou, Wei-dong Li, Guo-yun Zhong, Zhi-xiang Ye, Fan Diao*
 
 ---
 
@@ -25,7 +25,9 @@ This work proposes a lightweight test-time framework for Dual-Energy X-ray Trans
 
 ## 📊 Dataset
 
-https://doi.org/10.6084/m9.figshare.32150047
+The original DE-XRT copper ore image dataset is not publicly available due to data-use restrictions associated with the industrial ore samples.
+
+The repository contains code only and does not include the original high- and low-energy X-ray images.
 
 ---
 
@@ -89,12 +91,7 @@ DE-XRT-thickness-regularization/
 
 ## 📜 Citation
 
-@article{zhu2026robust,
-  title={Robust Dual-Energy X-ray Copper Ore Sorting via Log-Domain Contrast Imaging and Soft Adaptive Attenuation Compensation},
-  author={Zhu, Zhi-yong and He, Jian-feng and Wang, Wen and Cai, You-bin and Wang, Xue-yuan and Xia, Fei and Nie, Feng-jun and Li Wei-dong and Zhong, Guo-yun and Ye, Zhi-Xiang and Diao, Fan},
-  journal={International Journal of Minerals, Metallurgy and Materials},
-  year={2026}
-}
+Citation information will be updated after publication.
 
 ---
 
